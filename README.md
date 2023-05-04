@@ -1,0 +1,2 @@
+# personality-prediction-using-ml-for-E-recruitment-process
+ Personality prediction through CV analysis using machine learning for automated e-recruitment process is a novel approach to streamlining the recruitment process. By leveraging machine learning algorithms and natural language processing techniques, this method seeks to automate the personality analysis of job applicants by analyzing their Cvs.
